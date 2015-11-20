@@ -15,4 +15,5 @@ Repository format:
 
 2015/
     Chambouvet_et_al_2015: Cryptic infection of a broad taxonomic and geographic diversity of tadpoles by Perkinsea protists - Proceedings of the National Academy of Sciences
+    Richards_et_al_2015: Molecular diversity and distribution of marine fungi across 130 European environmental samples - Proceedings of the Royal Society B
 ```
